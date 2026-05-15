@@ -8,10 +8,12 @@ public class ConfigReader {
 
     private  final Properties properties;
 
-
     //constructor (initialize Properties object)
     public ConfigReader() throws IOException {
-        FileInputStream fs = new FileInputStream("C:\\Users\\abhiram.x1\\Desktop\\Testing-Bank-scripts\\Banking_Scripts\\src\\test\\java\\resources\\config\\API_CONFIG.prop");
+        FileInputStream fs =
+                new FileInputStream(
+                        "C:/Users/abhiram.x1/Desktop/Testing-Bank-scripts/Banking_Scripts/src/test/resources/config.properties"
+                );
         this.properties = new Properties();
         this.properties.load(fs);
     }
