@@ -10,6 +10,7 @@ public class DriverFactory {
     public DriverFactory(){
         this.Driver = new ChromeDriver();
     }
+    
 
     //Navigates to an URL provided by the user
     public void FetchPage(String url){
@@ -19,12 +20,13 @@ public class DriverFactory {
             this.Driver.get(url);
         }
     }
-
+//changed
     public void CloseDriver(){
         if(this.Driver == null){
             System.out.println("Driver Not initialised");
         }else {
-            this.Driver.close();
+            this.Driver.quit();
+            this.Driver = null;
         }
     }
 
