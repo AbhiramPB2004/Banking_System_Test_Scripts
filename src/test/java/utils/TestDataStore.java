@@ -8,6 +8,9 @@ public class TestDataStore {
     public static List<String> createdAccounts =
             new ArrayList<>();
 
+    public static Set<String> existingAccounts =
+            new HashSet<>();
+
     // accountNo -> original account type
     public static Map<String,String> updatedAccounts =
             new HashMap<>();

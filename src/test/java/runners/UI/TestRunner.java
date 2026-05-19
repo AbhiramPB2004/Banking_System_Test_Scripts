@@ -8,7 +8,7 @@ import io.cucumber.testng.CucumberOptions;
         features = "src/test/java/resources/features",
         glue = {"stepdefinitions","Hooks"},
         plugin = {"pretty", "html:target/cucumber-report.html"},
-        tags = " @validAccount",
+        tags = "",
         monochrome = true
 )
 

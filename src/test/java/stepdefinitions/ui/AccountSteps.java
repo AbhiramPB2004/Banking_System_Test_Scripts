@@ -16,7 +16,6 @@ import pages.TransactionsPage;
 import utils.ConfigReader;
 import utils.DriverFactory;
 import utils.LoggerUtility;
-import utils.TestDataStore;
 
 import java.util.List;
 
@@ -65,9 +64,6 @@ public class AccountSteps {
     @When("user creates {string} account with deposit {string}")
     public void user_creates_account_with_deposit(String accountType, String amount){
         accountsPage.createAccount(accountType, amount);
-        String accountNo = accountsPage.getCreatedAccountNumber();
-
-        TestDataStore.createdAccounts.add(accountNo);
     }
 
     //validAccount
@@ -81,12 +77,21 @@ public class AccountSteps {
         Assert.assertEquals(actualMessage, expectedMessage);
     }
 
+    //submitButtonLoading
+    @When("user enters {string} with deposit {string}")
+    public void user_enters_with_deposit(String accountType, String amount){
+        accountsPage.selectAccountType(accountType);
+        LoggerUtility.info("Select Account Type"+accountType);
+        accountsPage.enterDeposit(amount);
+        LoggerUtility.info("Enter Deposit Amount"+amount);
+    }
+
     @When("user clicks create account button")
     public void user_clicks_create_account_button(){
         accountsPage.clickOpenAccount();
         LoggerUtility.info("Click Create Account Button");
     }
-
+    
     //invalidDeposit
 
     @Then("browser validation message should be displayed as {string}")
@@ -235,18 +240,6 @@ public class AccountSteps {
 
     @When("user updates {string} account to {string}")
     public void user_updates_account_to(String existingType, String newType) throws InterruptedException {
-        String accountNo = accountsPage.getSelectedAccountNumber();
-        String oldType = accountsPage.getCurrentAccountType(accountNo);
-        TestDataStore.updatedAccounts.put(accountNo, oldType);
-
-        System.out.println(
-                "Stored: "
-                        + accountNo
-                        + " -> "
-                        + oldType
-        );
-
-
         accountsPage.updateAccountType(existingType, newType);
         LoggerUtility.info("Account Update from One type to Other");
         Thread.sleep(1000);
@@ -378,7 +371,6 @@ public class AccountSteps {
     @When("user closes selected account")
     public void user_closes_selected_account() throws InterruptedException {
         String accountNo = transactionsPage.getSelectedAccountNumber();
-        TestDataStore.closedAccounts.add(accountNo);
         accountsPage.closeAccountByNumber(accountNo);
         LoggerUtility.info("Close Account By AccountNo");
         Thread.sleep(1000);

@@ -77,36 +77,10 @@ public class AccountsPage {
         clickSubmitButton();
     }
     public String getCreatedAccountNumber(){
-
-        WebDriverWait wait =
-                new WebDriverWait(
-                        driver,
-                        Duration.ofSeconds(20)
-                );
-
-        // wait until account list reloads
-        wait.until(ExpectedConditions
-                .numberOfElementsToBeMoreThan(
-                        By.xpath("//span[contains(@class,'acc-item-number')]"),
-                        0
-                ));
-
-        List<WebElement> accounts =
-                driver.findElements(
-                        By.xpath(
-                                "//span[contains(@class,'acc-item-number')]"
-                        )
-                );
-
-        String accountNo =
-                accounts
-                        .get(accounts.size()-1)
-                        .getText();
-
-        System.out.println(
-                "Created Account Number : "
-                        + accountNo
-        );
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
+        WebElement account = wait.until(ExpectedConditions.visibilityOfElementLocated(LastaccountNumber));
+        String accountNo = account.getText();
+        System.out.println("Created Account Number : " +accountNo);
 
         return accountNo;
     }
@@ -158,8 +132,14 @@ public class AccountsPage {
     //updateAccountType
     public String getSelectedAccountNumber(){
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(20));
-        WebElement accountNo = wait.until(ExpectedConditions.visibilityOfElementLocated(selectedAccountNumber));
-        String number = accountNo.getText();
+        WebElement accountNo = wait.until(
+                        ExpectedConditions.visibilityOfElementLocated(
+                                selectedAccountNumber
+                        )
+                );
+
+        String number =
+                accountNo.getText();
 
         System.out.println(
                 "Selected Account Number : "
@@ -168,30 +148,9 @@ public class AccountsPage {
 
         return number;
     }
-    public String getCurrentAccountType(String accountNumber){
-        String xpath =
-                "//span[contains(@class,'acc-item-number') " +
-                        "and contains(text(),'"
-                        + accountNumber +
-                        "')]/ancestor::div[contains(@class,'acc-item')]//span[contains(@class,'acc-item-type')]";
-
-        WebDriverWait wait =
-                new WebDriverWait(
-                        driver,
-                        Duration.ofSeconds(20)
-                );
-
-        WebElement accountType =
-                wait.until(
-                        ExpectedConditions
-                                .visibilityOfElementLocated(
-                                        By.xpath(xpath)
-                                )
-                );
-
-        return accountType.getText();
+    public String getCurrentAccountType(){
+        return driver.findElement(By.xpath("//span[contains(@class,'acc-item-type')]")).getText();
     }
-
     public void clickChangeType() {
         driver.findElement(changeTypeButton).click();
     }

@@ -202,7 +202,7 @@ Feature: Account Creation Functionality
     Examples:
 
       | accountType | amount |
-      | current     | 10     |
+      | salary      | 100    |
       | savings     |  500   |
       | current     | 5000   |
 
@@ -234,17 +234,3 @@ Feature: Account Creation Functionality
       | accountType |
       | savings     |
       | current     |
-
-  @revertCheck
-  Scenario: Verify database revert hook
-
-    Given user navigates to accounts route
-    When user creates "Savings Account" account with deposit "18000"
-    Then account should be created successfully with message "Account created successfully!"
-
-  @revertUpdate
-  Scenario: Verify update revert hook
-
-    Given user navigates to accounts route
-    When user updates "savings" account to "Current"
-    Then account update should be successful with message "Account type updated"

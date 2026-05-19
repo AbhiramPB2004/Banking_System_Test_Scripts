@@ -24,13 +24,13 @@ public class Hooks {
             screenShotUtil.TakeScreenShot(factory.getDriver(), scenario.getName());
         }
 
-        try{
-            CleanupUtility.revertTestData();
-
-        }
-        catch(Exception e){
-            e.printStackTrace();
-        }
+//        try{
+//            //CleanupUtility.revertTestData();
+//
+//        }
+//        catch(Exception e){
+//            e.printStackTrace();
+//        }
 
         factory.CloseDriver();
 
