@@ -1,6 +1,6 @@
 package stepdefinitions.ui.ProfilePage;
-
 import Hooks.Hooks;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.WebDriver;
@@ -8,8 +8,10 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import pages.LoginPage;
 import pages.ProfilePage;
+import utils.LoggerUtility;
 
 import java.time.Duration;
+
 
 public class AdhaarStep {
 
@@ -35,7 +37,7 @@ public class AdhaarStep {
         loginPage.enterPassword("Strong@123");
 
         loginPage.clickLogin();
-
+        LoggerUtility.info("Logged in using Email and Password");
         WebDriverWait wait =
                 new WebDriverWait(driver, Duration.ofSeconds(20));
 
@@ -48,12 +50,14 @@ public class AdhaarStep {
 
     @When("User clicks Update KYC button")
     public void user_clicks_update_kyc_button() {
+        LoggerUtility.info("Clicks Update KYC button");
         this.page.ClickEditKYCButton();
     }
 
 
     @And("User clicks Save KYC button")
     public void user_clicks_save_kyc_button() {
+        LoggerUtility.info("clicks Save KYC button");
         this.page.ClickSaveKYCButton();
     }
 

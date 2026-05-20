@@ -30,7 +30,7 @@ Feature: User Profile Functionality
       | 12345           | Full Name must contain only alphabets   |
       | @@@@@           | Full Name must contain only alphabets|
       | Ab              |full_name must be at least 3 characters long.|
-      | A               |full_name must be at least 3 characters long.                     |
+      | A               |full_name must be at least 3 characters long.                    |
 
 
     # ---------------- PHONE NUMBER VALIDATIONS ----------------
@@ -109,7 +109,7 @@ Feature: User Profile Functionality
 
     Examples:
       | PhoneNumber | ExpectedMessage         |
-      | 7337695222  | Duplicate Phone number  |
+      | 7337695322 | Duplicate Phone number  |
 
 
   @PhoneValidation
@@ -186,7 +186,7 @@ Feature: User Profile Functionality
 
     Examples:
       | AnnualIncome |
-      | 12@34        |
+      | @/>,<)(@        |
 
 
   @AnnualIncomeValidation

@@ -4,6 +4,7 @@ import io.cucumber.java.en.And;
 import org.openqa.selenium.WebDriver;
 import pages.ProfilePage;
 import Hooks.Hooks;
+import utils.LoggerUtility;
 
 public class AddressStep {
     WebDriver driver;
@@ -18,15 +19,13 @@ public class AddressStep {
     @And("User clears Address field")
     public void user_clears_address_field() {
         this.page.ClearAddressField();
+        LoggerUtility.info("cleared Address field");
     }
 
     @And("User enters Address {string}")
     public void user_enters_address(String address) {
         this.page.SetAddressField(address);
+        LoggerUtility.info("Entered Address : " + address);
     }
-
-
-
-
 
 }

@@ -82,3 +82,15 @@ Feature: Aadhaar Validation
     Examples:
       | ExpectedMessage                             |
       | Aadhaar number cannot be empty or null.    |
+
+  @AadhaarValidation
+  Scenario Outline: Verify duplicate Aadhaar number validation
+    When User clicks Update KYC button
+    And User clears Aadhaar field
+    And User enters Aadhaar number "<Aadhaar>"
+    And User clicks Save KYC button
+    Then User should see toast message "<ExpectedMessage>"
+
+    Examples:
+      | Aadhaar     | ExpectedMessage                 |
+      | 546635466677| This Aadhaar number is already registered to another account. |

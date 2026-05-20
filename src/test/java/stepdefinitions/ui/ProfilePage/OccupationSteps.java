@@ -6,6 +6,7 @@ import Hooks.Hooks;
 import io.cucumber.java.en.And;
 import org.openqa.selenium.WebDriver;
 import pages.ProfilePage;
+import utils.LoggerUtility;
 
 public class OccupationSteps {
 
@@ -27,11 +28,13 @@ public class OccupationSteps {
     @And("User clears Occupation field")
     public void user_clears_occupation_field() {
         this.page.ClearOccupationField();
+        LoggerUtility.info("Cleared Occupation Field");
     }
 
     @And("User enters Occupation {string}")
     public void user_enters_occupation(String occupation) {
         this.page.setOccupationField(occupation);
+        LoggerUtility.info("Set Occupation field : " + occupation);
     }
 
 }

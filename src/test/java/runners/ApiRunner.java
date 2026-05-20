@@ -4,15 +4,11 @@ import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-
-        features =
-                "src/test/java/resources/features/ProfilePage",
-
+        features = "src/test/java/resources/features/API",
         glue = {
                 "stepdefinitions",
-                "Hooks"
+                "API_Hooks"
         },
-
         plugin = {
                 "pretty",
                 "html:target/cucumber-reports/cucumber.html",
@@ -20,16 +16,13 @@ import io.cucumber.testng.CucumberOptions;
                 "junit:target/cucumber-reports/cucumber.xml",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
                 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
+
         },
-
         monochrome = true,
-
         publish = true
-
-//        tags = "@PINAbove6"
+//        tags = "@KYCFieldValidation"
 )
 
-public class TestRunner
-        extends AbstractTestNGCucumberTests {
+public class ApiRunner extends AbstractTestNGCucumberTests {
 
 }

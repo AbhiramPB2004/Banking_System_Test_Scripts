@@ -13,7 +13,7 @@ public class CommonDashBoard {
     public CommonDashBoard(WebDriver Driver){
         this.Driver = Driver;
     }
-
+    //clicks logout button
     public void ClickLogout(){
         WebDriverWait wait = new WebDriverWait(this.Driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.elementToBeClickable(LogoutButton));
