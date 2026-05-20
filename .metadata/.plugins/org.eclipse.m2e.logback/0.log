@@ -1,0 +1,39 @@
+2026-05-14 14:43:32,682 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2026-05-14 14:46:58,121 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-05-14 14:47:19,579 [Worker-16: Installing artifact] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to close spy org.eclipse.m2e.internal.maven.listener.M2EMavenBuildDataBridge: Cannot invoke "java.nio.channels.SocketChannel.close()" because "this.writeChannel" is null
+2026-05-14 14:47:19,584 [Worker-16: Installing artifact] ERROR o.e.m.c.u.i.w.MavenInstallFileWizard - Execution error; org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal [32morg.apache.maven.plugins:maven-install-plugin:3.1.2:install-file[m [1m(default-cli)[m on project [36mstandalone-pom[m: [1;31mExecution default-cli of goal org.apache.maven.plugins:maven-install-plugin:3.1.2:install-file failed: type id cannot be empty[m
+org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal [32morg.apache.maven.plugins:maven-install-plugin:3.1.2:install-file[m [1m(default-cli)[m on project [36mstandalone-pom[m: [1;31mExecution default-cli of goal org.apache.maven.plugins:maven-install-plugin:3.1.2:install-file failed: type id cannot be empty[m
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:333)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:316)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:212)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:174)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.access$000(MojoExecutor.java:75)
+	at org.apache.maven.lifecycle.internal.MojoExecutor$1.run(MojoExecutor.java:162)
+	at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute(DefaultMojosExecutionStrategy.java:39)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:159)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:105)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:73)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:53)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:118)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:261)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:173)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.lambda$3(MavenExecutionContext.java:374)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:366)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenInstallFileWizard.lambda$0(MavenInstallFileWizard.java:105)
+	at org.eclipse.core.runtime.jobs.Job$1.run(Job.java:166)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.plugin.PluginExecutionException: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:3.1.2:install-file failed: type id cannot be empty
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:133)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:328)
+	... 22 common frames omitted
+Caused by: java.lang.IllegalArgumentException: type id cannot be empty
+	at org.eclipse.aether.artifact.DefaultArtifactType.<init>(DefaultArtifactType.java:89)
+	at org.apache.maven.RepositoryUtils.newArtifactType(RepositoryUtils.java:262)
+	at org.apache.maven.RepositoryUtils$MavenArtifactTypeRegistry.get(RepositoryUtils.java:320)
+	at org.apache.maven.plugins.install.InstallFileMojo.execute(InstallFileMojo.java:222)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:126)
+	... 23 common frames omitted

@@ -1,0 +1,1628 @@
+2026-05-20 16:51:20 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:51:20 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:51:20 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:51:22 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:51:22 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:51:23 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:51:24 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:51:24 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:51:25 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:51:25 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:51:25 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:51:26 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:51:26 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:51:26 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:51:26 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:51:49 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:51:49 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:51:49 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:51:49 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:51:49 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:51:50 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:51:50 [main] INFO  stepdefinitions.TransactionsSteps - Validating Transactions page load.
+2026-05-20 16:51:50 [main] INFO  pages.TransactionsPage - Checking whether Transactions page is loaded.
+2026-05-20 16:51:50 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page loaded successfully.
+2026-05-20 16:51:55 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:51:55 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:51:55 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:51:57 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:51:57 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:51:59 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:51:59 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:52:00 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:52:00 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:52:00 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:52:00 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:52:01 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:52:01 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:52:01 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:52:01 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:52:25 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:52:25 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:52:25 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:52:25 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:52:25 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:52:25 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:52:25 [main] INFO  stepdefinitions.TransactionsSteps - Clicking Transfer tab.
+2026-05-20 16:52:25 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 16:52:26 [main] INFO  stepdefinitions.TransactionsSteps - Validating Transfer tab display.
+2026-05-20 16:52:31 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:52:31 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:52:31 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:52:34 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:52:34 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:52:35 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:52:35 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:52:36 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:52:36 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:52:36 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:52:36 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:52:36 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:52:37 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:52:37 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:52:37 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:53:00 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:53:00 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:53:00 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:53:00 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:53:00 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:53:00 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:53:00 [main] INFO  stepdefinitions.TransactionsSteps - Clicking Deposit tab.
+2026-05-20 16:53:00 [main] INFO  pages.TransactionsPage - Clicking Deposit tab.
+2026-05-20 16:53:01 [main] INFO  stepdefinitions.TransactionsSteps - Validating Deposit tab display.
+2026-05-20 16:53:05 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:53:05 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:53:05 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:53:08 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:53:08 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:53:10 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:53:10 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:53:10 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:53:10 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:53:10 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:53:10 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:53:11 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:53:11 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:53:11 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:53:11 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:53:34 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:53:34 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:53:34 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:53:34 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:53:34 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:53:35 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:53:35 [main] INFO  stepdefinitions.TransactionsSteps - Clicking Withdraw tab.
+2026-05-20 16:53:35 [main] INFO  pages.TransactionsPage - Clicking Withdraw tab.
+2026-05-20 16:53:36 [main] INFO  stepdefinitions.TransactionsSteps - Validating Withdraw tab display.
+2026-05-20 16:53:40 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:53:40 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:53:40 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:53:43 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:53:43 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:53:44 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:53:44 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:53:45 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:53:45 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:53:45 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:53:45 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:53:46 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:53:46 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:53:46 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:53:46 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:54:09 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:54:09 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:54:09 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:54:09 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:54:09 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:54:10 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:54:10 [main] INFO  stepdefinitions.TransactionsSteps - Validating account dropdown display.
+2026-05-20 16:54:10 [main] INFO  stepdefinitions.TransactionsSteps - Validating account dropdown contains accounts.
+2026-05-20 16:54:10 [main] INFO  pages.TransactionsPage - Account dropdown contains 8 options.
+2026-05-20 16:54:15 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:54:15 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:54:15 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:54:18 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:54:18 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:54:19 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:54:19 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:54:20 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:54:20 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:54:20 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:54:20 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:54:20 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:54:20 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:54:20 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:54:20 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:54:44 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:54:44 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:54:44 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:54:44 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:54:44 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:54:44 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:54:44 [main] INFO  stepdefinitions.TransactionsSteps - Validating recipient account field display.
+2026-05-20 16:54:44 [main] INFO  stepdefinitions.TransactionsSteps - Entering recipient account number: 1025000193741423
+2026-05-20 16:54:44 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000193741423
+2026-05-20 16:54:45 [main] INFO  stepdefinitions.TransactionsSteps - Validating recipient account acceptance.
+2026-05-20 16:54:49 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:54:49 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:54:49 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:54:52 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:54:52 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:54:53 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:54:53 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:54:54 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:54:54 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:54:54 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:54:54 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:54:54 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:54:55 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:54:55 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:54:55 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:55:18 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:55:18 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:55:18 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:55:18 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:55:18 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:55:18 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:55:18 [main] INFO  stepdefinitions.TransactionsSteps - Entering transaction PIN.
+2026-05-20 16:55:18 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 16:55:18 [main] INFO  stepdefinitions.TransactionsSteps - Validating transaction PIN value.
+2026-05-20 16:55:24 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:55:24 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:55:24 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:55:27 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:55:27 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:55:28 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:55:28 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:55:29 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:55:29 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:55:29 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:55:29 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:55:29 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:55:30 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:55:30 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:55:30 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:55:53 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:55:53 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:55:53 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:55:53 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:55:53 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:55:53 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:55:53 [main] INFO  stepdefinitions.TransactionsSteps - Entering transaction PIN.
+2026-05-20 16:55:53 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 16:55:54 [main] INFO  stepdefinitions.TransactionsSteps - Validating invalid transaction PIN rejection.
+2026-05-20 16:55:58 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:55:58 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:55:58 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:56:01 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:56:01 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:56:02 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:56:02 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:56:03 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:56:03 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:56:03 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:56:03 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:56:03 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:56:03 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:56:04 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:56:04 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:56:26 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:56:26 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:56:26 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:56:26 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:56:26 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:56:27 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:56:27 [main] INFO  stepdefinitions.TransactionsSteps - Reading transaction data from Excel row: 1
+2026-05-20 16:56:27 [main] INFO  stepdefinitions.TransactionsSteps - Source Account: 1025000122964314
+2026-05-20 16:56:27 [main] INFO  stepdefinitions.TransactionsSteps - Recipient Account: 1025000125008298
+2026-05-20 16:56:27 [main] INFO  stepdefinitions.TransactionsSteps - Transfer Type: internal
+2026-05-20 16:56:27 [main] INFO  stepdefinitions.TransactionsSteps - Amount: 1000
+2026-05-20 16:56:27 [main] INFO  stepdefinitions.TransactionsSteps - PIN: 123456
+2026-05-20 16:56:27 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 16:56:27 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 16:56:27 [main] INFO  pages.TransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 16:56:27 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 16:56:27 [main] INFO  pages.TransactionsPage - Amount: 1000
+2026-05-20 16:56:28 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 16:56:28 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 16:56:28 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 16:56:28 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000125008298
+2026-05-20 16:56:28 [main] INFO  pages.TransactionsPage - Entering amount: 1000
+2026-05-20 16:56:29 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 16:56:29 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 16:56:29 [main] INFO  stepdefinitions.TransactionsSteps - Transaction execution completed for row: 1
+2026-05-20 16:56:29 [main] INFO  stepdefinitions.TransactionsSteps - Validating transaction success.
+2026-05-20 16:56:29 [main] INFO  pages.TransactionsPage - Checking for success message.
+2026-05-20 16:56:30 [main] INFO  pages.TransactionsPage - Transaction success message displayed: Transfer successful!
+2026-05-20 16:56:30 [main] INFO  stepdefinitions.TransactionsSteps - Transaction completed successfully.
+2026-05-20 16:56:34 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:56:34 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:56:34 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:56:37 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:56:37 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:56:38 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:56:38 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:56:39 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:56:39 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:56:39 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:56:39 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:56:39 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:56:40 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:56:40 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:56:40 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:57:03 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:57:03 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:57:03 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:57:03 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:57:03 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:57:03 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:57:03 [main] INFO  stepdefinitions.TransactionsSteps - Reading transaction data from Excel row: 2
+2026-05-20 16:57:04 [main] INFO  stepdefinitions.TransactionsSteps - Source Account: 1025000122964314
+2026-05-20 16:57:04 [main] INFO  stepdefinitions.TransactionsSteps - Recipient Account: 
+2026-05-20 16:57:04 [main] INFO  stepdefinitions.TransactionsSteps - Transfer Type: deposit
+2026-05-20 16:57:04 [main] INFO  stepdefinitions.TransactionsSteps - Amount: 5000
+2026-05-20 16:57:04 [main] INFO  stepdefinitions.TransactionsSteps - PIN: 123456
+2026-05-20 16:57:04 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 16:57:04 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 16:57:04 [main] INFO  pages.TransactionsPage - Recipient Account: 
+2026-05-20 16:57:04 [main] INFO  pages.TransactionsPage - Transfer Type: deposit
+2026-05-20 16:57:04 [main] INFO  pages.TransactionsPage - Amount: 5000
+2026-05-20 16:57:04 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 16:57:04 [main] INFO  pages.TransactionsPage - Clicking Deposit tab.
+2026-05-20 16:57:04 [main] INFO  pages.TransactionsPage - Entering amount: 5000
+2026-05-20 16:57:04 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 16:57:05 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 16:57:05 [main] INFO  stepdefinitions.TransactionsSteps - Transaction execution completed for row: 2
+2026-05-20 16:57:05 [main] INFO  stepdefinitions.TransactionsSteps - Validating transaction success.
+2026-05-20 16:57:05 [main] INFO  pages.TransactionsPage - Checking for success message.
+2026-05-20 16:57:05 [main] INFO  pages.TransactionsPage - Transaction success message displayed: Deposit successful!
+2026-05-20 16:57:06 [main] INFO  stepdefinitions.TransactionsSteps - Transaction completed successfully.
+2026-05-20 16:57:10 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:57:10 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:57:10 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:57:13 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:57:13 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:57:14 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:57:14 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:57:15 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:57:15 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:57:15 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:57:15 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:57:15 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:57:15 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:57:16 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:57:16 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:57:38 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:57:38 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:57:38 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:57:38 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:57:38 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:57:39 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:57:39 [main] INFO  stepdefinitions.TransactionsSteps - Reading transaction data from Excel row: 3
+2026-05-20 16:57:39 [main] INFO  stepdefinitions.TransactionsSteps - Source Account: 1025000122964314
+2026-05-20 16:57:39 [main] INFO  stepdefinitions.TransactionsSteps - Recipient Account: 
+2026-05-20 16:57:39 [main] INFO  stepdefinitions.TransactionsSteps - Transfer Type: withdraw
+2026-05-20 16:57:39 [main] INFO  stepdefinitions.TransactionsSteps - Amount: 1000
+2026-05-20 16:57:39 [main] INFO  stepdefinitions.TransactionsSteps - PIN: 123456
+2026-05-20 16:57:39 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 16:57:39 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 16:57:39 [main] INFO  pages.TransactionsPage - Recipient Account: 
+2026-05-20 16:57:39 [main] INFO  pages.TransactionsPage - Transfer Type: withdraw
+2026-05-20 16:57:39 [main] INFO  pages.TransactionsPage - Amount: 1000
+2026-05-20 16:57:40 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 16:57:40 [main] INFO  pages.TransactionsPage - Clicking Withdraw tab.
+2026-05-20 16:57:40 [main] INFO  pages.TransactionsPage - Entering amount: 1000
+2026-05-20 16:57:40 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 16:57:41 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 16:57:41 [main] INFO  stepdefinitions.TransactionsSteps - Transaction execution completed for row: 3
+2026-05-20 16:57:41 [main] INFO  stepdefinitions.TransactionsSteps - Validating transaction success.
+2026-05-20 16:57:41 [main] INFO  pages.TransactionsPage - Checking for success message.
+2026-05-20 16:57:41 [main] INFO  pages.TransactionsPage - Transaction success message displayed: Withdraw successful!
+2026-05-20 16:57:41 [main] INFO  stepdefinitions.TransactionsSteps - Transaction completed successfully.
+2026-05-20 16:57:47 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:57:47 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:57:47 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:57:50 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:57:50 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:57:51 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:57:51 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:57:52 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:57:52 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:57:52 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:57:52 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:57:52 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:57:52 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:57:52 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:57:52 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:58:16 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:58:16 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:58:16 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:58:16 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:58:16 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:58:16 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:58:16 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:58:16 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 16:58:16 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Reading negative transaction test data from Excel row: 1
+2026-05-20 16:58:16 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 16:58:16 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Recipient Account: 1025000122964314
+2026-05-20 16:58:16 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Transfer Type: internal
+2026-05-20 16:58:16 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Amount: 1000
+2026-05-20 16:58:16 [main] INFO  stepdefinitions.NegativeTransactionsSteps - PIN: 123456
+2026-05-20 16:58:16 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 16:58:16 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 16:58:16 [main] INFO  pages.TransactionsPage - Recipient Account: 1025000122964314
+2026-05-20 16:58:16 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 16:58:16 [main] INFO  pages.TransactionsPage - Amount: 1000
+2026-05-20 16:58:17 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 16:58:17 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 16:58:17 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 16:58:17 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000122964314
+2026-05-20 16:58:18 [main] INFO  pages.TransactionsPage - Entering amount: 1000
+2026-05-20 16:58:18 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 16:58:18 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 16:58:18 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Negative transaction executed successfully for row: 1
+2026-05-20 16:58:18 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 16:58:18 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 16:58:18 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 16:58:18 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 16:58:23 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:58:23 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:58:23 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:58:26 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:58:26 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:58:28 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:58:28 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:58:28 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:58:28 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:58:28 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:58:28 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:58:29 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:58:29 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:58:29 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:58:29 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:58:52 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:58:52 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:58:52 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:58:52 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:58:52 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:58:52 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:58:52 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:58:52 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 16:58:52 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Reading negative transaction test data from Excel row: 2
+2026-05-20 16:58:52 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Source Account: 1025000194996221
+2026-05-20 16:58:52 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Recipient Account: 1025000125008298
+2026-05-20 16:58:52 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Transfer Type: internal
+2026-05-20 16:58:52 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Amount: 5000
+2026-05-20 16:58:52 [main] INFO  stepdefinitions.NegativeTransactionsSteps - PIN: 123456
+2026-05-20 16:58:52 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 16:58:52 [main] INFO  pages.TransactionsPage - Source Account: 1025000194996221
+2026-05-20 16:58:52 [main] INFO  pages.TransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 16:58:52 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 16:58:52 [main] INFO  pages.TransactionsPage - Amount: 5000
+2026-05-20 16:58:53 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 16:58:53 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 16:58:53 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 16:58:53 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000125008298
+2026-05-20 16:58:54 [main] INFO  pages.TransactionsPage - Entering amount: 5000
+2026-05-20 16:58:54 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 16:58:54 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 16:58:55 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Negative transaction executed successfully for row: 2
+2026-05-20 16:58:55 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 16:58:55 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 16:58:55 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 16:58:55 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 16:59:00 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:59:00 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:59:00 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:59:03 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:59:03 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:59:04 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:59:04 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:59:05 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:59:05 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:59:05 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:59:05 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:59:06 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:59:06 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:59:06 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:59:06 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 16:59:29 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 16:59:29 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 16:59:29 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 16:59:29 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:59:29 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 16:59:29 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 16:59:29 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 16:59:29 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 16:59:29 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Reading negative transaction test data from Excel row: 3
+2026-05-20 16:59:30 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 16:59:30 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Recipient Account: 1025000125008298
+2026-05-20 16:59:30 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Transfer Type: rtgs
+2026-05-20 16:59:30 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Amount: 100000
+2026-05-20 16:59:30 [main] INFO  stepdefinitions.NegativeTransactionsSteps - PIN: 123456
+2026-05-20 16:59:30 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 16:59:30 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 16:59:30 [main] INFO  pages.TransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 16:59:30 [main] INFO  pages.TransactionsPage - Transfer Type: rtgs
+2026-05-20 16:59:30 [main] INFO  pages.TransactionsPage - Amount: 100000
+2026-05-20 16:59:30 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 16:59:30 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 16:59:31 [main] INFO  pages.TransactionsPage - Selected transfer type: rtgs
+2026-05-20 16:59:31 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000125008298
+2026-05-20 16:59:31 [main] INFO  pages.TransactionsPage - Entering amount: 100000
+2026-05-20 16:59:32 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 16:59:32 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 16:59:32 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Negative transaction executed successfully for row: 3
+2026-05-20 16:59:32 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 16:59:32 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 16:59:32 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 16:59:32 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 16:59:37 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 16:59:37 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 16:59:37 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 16:59:40 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 16:59:40 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 16:59:41 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 16:59:41 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 16:59:42 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 16:59:42 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 16:59:42 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 16:59:42 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 16:59:42 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 16:59:43 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 16:59:43 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 16:59:43 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:00:06 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:00:06 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:00:06 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:00:06 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:00:06 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:00:06 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:00:06 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:00:06 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:00:06 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Reading negative transaction test data from Excel row: 4
+2026-05-20 17:00:06 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Source Account: 1025000178288290
+2026-05-20 17:00:06 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Recipient Account: 
+2026-05-20 17:00:06 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Transfer Type: deposit
+2026-05-20 17:00:06 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Amount: 1500000
+2026-05-20 17:00:06 [main] INFO  stepdefinitions.NegativeTransactionsSteps - PIN: 123456
+2026-05-20 17:00:06 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:00:06 [main] INFO  pages.TransactionsPage - Source Account: 1025000178288290
+2026-05-20 17:00:06 [main] INFO  pages.TransactionsPage - Recipient Account: 
+2026-05-20 17:00:06 [main] INFO  pages.TransactionsPage - Transfer Type: deposit
+2026-05-20 17:00:06 [main] INFO  pages.TransactionsPage - Amount: 1500000
+2026-05-20 17:00:07 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:00:07 [main] INFO  pages.TransactionsPage - Clicking Deposit tab.
+2026-05-20 17:00:07 [main] INFO  pages.TransactionsPage - Entering amount: 1500000
+2026-05-20 17:00:07 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:00:07 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:00:07 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Negative transaction executed successfully for row: 4
+2026-05-20 17:00:07 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:00:07 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:00:08 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 17:00:08 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:00:12 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:00:12 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:00:12 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:00:15 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:00:15 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:00:16 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:00:16 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:00:17 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:00:17 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:00:17 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:00:17 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:00:17 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:00:17 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:00:18 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:00:18 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:00:40 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:00:40 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:00:40 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:00:40 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:00:40 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:00:40 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:00:40 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:00:40 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:00:40 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Reading negative transaction test data from Excel row: 5
+2026-05-20 17:00:41 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 17:00:41 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Recipient Account: 1025000125008298
+2026-05-20 17:00:41 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Transfer Type: internal
+2026-05-20 17:00:41 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Amount: 1000
+2026-05-20 17:00:41 [main] INFO  stepdefinitions.NegativeTransactionsSteps - PIN: 123456
+2026-05-20 17:00:41 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:00:41 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:00:41 [main] INFO  pages.TransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 17:00:41 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 17:00:41 [main] INFO  pages.TransactionsPage - Amount: 1000
+2026-05-20 17:00:41 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:00:41 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 17:00:42 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 17:00:42 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000125008298
+2026-05-20 17:00:42 [main] INFO  pages.TransactionsPage - Entering amount: 1000
+2026-05-20 17:00:42 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:00:43 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:00:43 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Negative transaction executed successfully for row: 5
+2026-05-20 17:00:43 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:00:43 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:00:43 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 17:00:43 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:00:48 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:00:48 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:00:48 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:00:51 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:00:51 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:00:52 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:00:52 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:00:52 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:00:52 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:00:52 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:00:52 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:00:53 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:00:53 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:00:53 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:00:53 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:01:17 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:01:17 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:01:17 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:01:17 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:01:17 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Waiting for 5 minute(s).
+2026-05-20 17:06:17 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Refreshing page after waiting to trigger session validation.
+2026-05-20 17:06:17 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Page refreshed after timeout wait.
+2026-05-20 17:06:17 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating redirection to login page.
+2026-05-20 17:06:17 [main] INFO  pages.NegativeTransactionsPage - Verifying login page is displayed.
+2026-05-20 17:06:28 [main] ERROR pages.NegativeTransactionsPage - Login page not displayed. Current URL: http://localhost:3000/dashboard
+2026-05-20 17:06:28 [main] ERROR pages.NegativeTransactionsPage - Exception: 
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for url to be "http://localhost:3000/". Current url: "http://localhost:3000/dashboard" (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.31.0', revision: '1ef9f18787*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 148.0.7778.168, chrome: {chromedriverVersion: 148.0.7778.178 (d096af1c9e9..., userDataDir: C:\Users\harish.s8\AppData\...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54546}, goog:processID: 25052, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54546/devtoo..., se:cdpVersion: 148.0.7778.168, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bccf88bd01cd46974dada370ca2620f0
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.31.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.31.0.jar:?]
+	at pages.NegativeTransactionsPage.isLoginPageDisplayed(NegativeTransactionsPage.java:202) ~[test-classes/:?]
+	at stepdefinitions.NegativeTransactionsSteps.the_user_should_be_redirected_to_the_login_page(NegativeTransactionsSteps.java:248) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.15.0.jar:7.15.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.15.0.jar:7.15.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.15.0.jar:7.15.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[testng-7.11.0.jar:7.11.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[testng-7.11.0.jar:7.11.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:741) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestRunner.run(TestRunner.java:616) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.11.0.jar:7.11.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [testng-7.11.0.jar:7.11.0]
+	at org.testng.TestNG.run(TestNG.java:1079) [testng-7.11.0.jar:7.11.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:155) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeSingleClass(TestNGDirectoryTestSuite.java:102) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:91) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:137) [surefire-testng-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.2.5.jar:3.2.5]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.2.5.jar:3.2.5]
+2026-05-20 17:06:32 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:06:32 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:06:32 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:06:35 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:06:35 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:06:36 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:06:36 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:06:38 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:06:38 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:06:38 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:06:38 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:06:38 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:06:38 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:06:38 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:06:38 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:07:02 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:07:02 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:07:02 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:07:02 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:07:02 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:07:02 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:07:02 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:07:02 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:07:02 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:07:02 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating transfer type dropdown contains at least 4 options.
+2026-05-20 17:07:02 [main] INFO  pages.TransactionUIValidationPage - Checking transfer type dropdown visibility.
+2026-05-20 17:07:03 [main] INFO  pages.TransactionUIValidationPage - Transfer type option count: 4
+2026-05-20 17:07:03 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Transfer type dropdown validation passed.
+2026-05-20 17:07:07 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:07:07 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:07:07 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:07:10 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:07:10 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:07:11 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:07:11 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:07:12 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:07:12 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:07:12 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:07:12 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:07:12 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:07:13 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:07:13 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:07:13 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:07:36 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:07:36 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:07:36 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:07:36 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:07:36 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:07:36 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:07:36 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:07:36 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:07:36 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:07:36 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Entering valid amount: 5000
+2026-05-20 17:07:36 [main] INFO  pages.TransactionUIValidationPage - Entering amount: 5000
+2026-05-20 17:07:37 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating amount field displays: 5000
+2026-05-20 17:07:37 [main] INFO  pages.TransactionUIValidationPage - Amount field value: 5000
+2026-05-20 17:07:42 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:07:42 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:07:42 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:07:44 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:07:44 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:07:46 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:07:46 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:07:46 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:07:46 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:07:46 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:07:46 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:07:47 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:07:47 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:07:47 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:07:47 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:08:10 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:08:10 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:08:10 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:08:10 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:08:10 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:08:11 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:08:11 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:08:11 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:08:11 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:08:11 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Entering invalid amount: -1000
+2026-05-20 17:08:11 [main] INFO  pages.TransactionUIValidationPage - Entering amount: -1000
+2026-05-20 17:08:11 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating amount field does not display: -1000
+2026-05-20 17:08:11 [main] INFO  pages.TransactionUIValidationPage - Amount field value: 1000
+2026-05-20 17:08:15 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:08:15 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:08:15 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:08:18 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:08:18 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:08:20 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:08:20 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:08:21 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:08:21 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:08:21 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:08:21 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:08:21 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:08:21 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:08:22 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:08:22 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:08:45 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:08:45 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:08:45 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:08:45 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:08:45 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:08:45 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:08:45 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:08:45 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:08:45 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:08:45 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Entering invalid amount: abcd
+2026-05-20 17:08:45 [main] INFO  pages.TransactionUIValidationPage - Entering amount: abcd
+2026-05-20 17:08:46 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating amount field does not display: abcd
+2026-05-20 17:08:46 [main] INFO  pages.TransactionUIValidationPage - Amount field value: 
+2026-05-20 17:08:51 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:08:51 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:08:51 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:08:53 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:08:53 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:08:54 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:08:54 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:08:55 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:08:55 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:08:55 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:08:55 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:08:55 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:08:56 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:08:56 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:08:56 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:09:19 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:09:19 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:09:19 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:09:19 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:09:19 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:09:19 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:09:19 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:09:19 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:09:19 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:09:19 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Clicking Confirm button.
+2026-05-20 17:09:19 [main] INFO  pages.TransactionUIValidationPage - Clicking Confirm button.
+2026-05-20 17:09:20 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:09:20 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:09:20 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:09:20 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:09:20 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 17:09:20 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:09:24 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:09:24 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:09:24 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:09:28 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:09:28 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:09:29 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:09:29 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:09:30 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:09:30 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:09:30 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:09:30 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:09:30 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:09:31 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:09:31 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:09:31 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:09:54 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:09:54 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:09:54 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:09:54 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:09:54 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:09:55 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:09:55 [main] INFO  stepdefinitions.TransactionsSteps - Clicking Deposit tab.
+2026-05-20 17:09:55 [main] INFO  pages.TransactionsPage - Clicking Deposit tab.
+2026-05-20 17:09:55 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:09:55 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:09:55 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:09:55 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Clicking Confirm button.
+2026-05-20 17:09:55 [main] INFO  pages.TransactionUIValidationPage - Clicking Confirm button.
+2026-05-20 17:09:55 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:09:55 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:09:55 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:09:55 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:09:55 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 17:09:55 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:10:01 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:10:01 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:10:01 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:10:04 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:10:04 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:10:05 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:10:05 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:10:07 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:10:07 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:10:07 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:10:07 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:10:07 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:10:07 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:10:07 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:10:07 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:10:30 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:10:30 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:10:30 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:10:30 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:10:30 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:10:30 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:10:30 [main] INFO  stepdefinitions.TransactionsSteps - Clicking Withdraw tab.
+2026-05-20 17:10:30 [main] INFO  pages.TransactionsPage - Clicking Withdraw tab.
+2026-05-20 17:10:31 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:10:31 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:10:31 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:10:31 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Clicking Confirm button.
+2026-05-20 17:10:31 [main] INFO  pages.TransactionUIValidationPage - Clicking Confirm button.
+2026-05-20 17:10:31 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:10:31 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:10:31 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:10:31 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:10:31 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 17:10:31 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:10:36 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:10:36 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:10:36 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:10:39 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:10:39 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:10:40 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:10:41 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:10:42 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:10:42 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:10:42 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:10:42 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:10:42 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:10:42 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:10:42 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:10:42 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:11:06 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:11:06 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:11:06 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:11:06 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:11:06 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:11:06 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:11:06 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:11:06 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:11:06 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:11:06 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating left navigation display.
+2026-05-20 17:11:06 [main] INFO  pages.TransactionUIValidationPage - Checking sidebar visibility.
+2026-05-20 17:11:11 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:11:11 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:11:11 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:11:14 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:11:14 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:11:16 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:11:16 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:11:17 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:11:17 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:11:17 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:11:17 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:11:17 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:11:17 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:11:17 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:11:17 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:11:41 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:11:41 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:11:41 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:11:41 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:11:41 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:11:41 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:11:41 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:11:41 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:11:41 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:11:41 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating transaction form display.
+2026-05-20 17:11:41 [main] INFO  pages.TransactionUIValidationPage - Checking transaction form visibility.
+2026-05-20 17:11:46 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:11:46 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:11:46 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:11:50 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:11:50 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:11:52 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:11:52 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:11:53 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:11:53 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:11:53 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:11:53 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:11:53 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:11:54 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:11:54 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:11:54 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:12:17 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:12:17 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:12:17 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:12:17 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:12:17 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:12:18 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:12:18 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:12:18 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:12:18 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:12:18 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating transaction form display.
+2026-05-20 17:12:18 [main] INFO  pages.TransactionUIValidationPage - Checking transaction form visibility.
+2026-05-20 17:12:23 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:12:23 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:12:23 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:12:26 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:12:26 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:12:27 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:12:27 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:12:28 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:12:28 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:12:28 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:12:28 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:12:28 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:12:28 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:12:28 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:12:28 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:12:51 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:12:51 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:12:51 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:12:51 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:12:51 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:12:52 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:12:52 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:12:52 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:12:52 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:12:52 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating mobile responsiveness.
+2026-05-20 17:12:52 [main] INFO  pages.TransactionUIValidationPage - Setting mobile viewport: 375x812
+2026-05-20 17:12:53 [main] INFO  pages.TransactionUIValidationPage - Responsive validation result: true
+2026-05-20 17:12:57 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:12:57 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:12:57 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:13:00 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:13:00 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:13:01 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:13:01 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:13:02 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:13:02 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:13:02 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:13:02 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:13:02 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:13:02 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:13:03 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:13:03 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:13:26 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:13:26 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:13:26 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:13:26 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:13:26 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:13:26 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:13:26 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:13:26 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:13:26 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:13:26 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating all labels are displayed.
+2026-05-20 17:13:26 [main] INFO  pages.TransactionUIValidationPage - Validating all labels.
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - Number of labels found: 6
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - Label Text: SELECT ACCOUNT
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - Label Text: RECIPIENT ACCOUNT NUMBER
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - Label Text: TRANSFER TYPE
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - Label Text: AMOUNT (₹)
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - Label Text: DESCRIPTION
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - Label Text: TRANSACTION PIN
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - Label validation result: true
+2026-05-20 17:13:27 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating all input fields have placeholders.
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - Validating placeholders.
+2026-05-20 17:13:27 [main] INFO  pages.TransactionUIValidationPage - All placeholders are present.
+2026-05-20 17:13:32 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:13:32 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:13:32 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:13:38 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:13:38 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:13:39 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:13:39 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:13:39 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:13:39 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:13:39 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:13:39 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:13:40 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:13:40 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:13:40 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:13:40 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:14:03 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:14:03 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:14:03 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:14:03 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:14:03 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:14:03 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:14:03 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:14:03 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:14:03 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:14:03 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating success toast message.
+2026-05-20 17:14:03 [main] INFO  pages.TransactionUIValidationPage - Checking for success toast.
+2026-05-20 17:14:04 [main] INFO  pages.TransactionUIValidationPage - Success Toast Message: Welcome back, Harish S!
+2026-05-20 17:14:08 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:14:08 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:14:08 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:14:12 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:14:12 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:14:14 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:14:14 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:14:15 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:14:15 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:14:15 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:14:15 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:14:15 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:14:15 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:14:15 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:14:15 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:14:39 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:14:39 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:14:39 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:14:39 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:14:39 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 1
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 9999999999999999
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: internal
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 1000
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Receiver account does not exist.
+2026-05-20 17:14:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: 
+2026-05-20 17:14:39 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:14:39 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:14:39 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 9999999999999999
+2026-05-20 17:14:39 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: internal
+2026-05-20 17:14:39 [main] INFO  pages.AdvancedTransactionsPage - Amount: 1000
+2026-05-20 17:14:39 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:14:39 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:14:39 [main] INFO  pages.TransactionsPage - Recipient Account: 9999999999999999
+2026-05-20 17:14:39 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 17:14:39 [main] INFO  pages.TransactionsPage - Amount: 1000
+2026-05-20 17:14:40 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:14:40 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 17:14:41 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 17:14:41 [main] INFO  pages.TransactionsPage - Entering recipient account number: 9999999999999999
+2026-05-20 17:14:41 [main] INFO  pages.TransactionsPage - Entering amount: 1000
+2026-05-20 17:14:41 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:14:41 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:14:42 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:14:42 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 1
+2026-05-20 17:14:42 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:14:42 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:14:42 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:14:42 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:14:42 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 17:14:42 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:14:46 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:14:46 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:14:46 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:14:49 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:14:49 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:14:50 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:14:50 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:14:51 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:14:51 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:14:51 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:14:51 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:14:51 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:14:52 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:14:52 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:14:52 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:15:15 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:15:15 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 2
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000194996221
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 1025000125008298
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: internal
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 99999999
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Insufficient balance
+2026-05-20 17:15:15 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: 
+2026-05-20 17:15:15 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:15:15 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000194996221
+2026-05-20 17:15:15 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 17:15:15 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: internal
+2026-05-20 17:15:15 [main] INFO  pages.AdvancedTransactionsPage - Amount: 99999999
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - Source Account: 1025000194996221
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - Amount: 99999999
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:15:15 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 17:15:16 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 17:15:16 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000125008298
+2026-05-20 17:15:16 [main] INFO  pages.TransactionsPage - Entering amount: 99999999
+2026-05-20 17:15:16 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:15:17 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:15:17 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:15:17 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 2
+2026-05-20 17:15:17 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:15:17 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:15:17 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:15:17 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:15:17 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Maximum single transaction limit is ₹1,00,00,000
+2026-05-20 17:15:17 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:15:22 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:15:22 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:15:22 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:15:25 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:15:25 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:15:26 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:15:26 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:15:27 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:15:27 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:15:27 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:15:27 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:15:27 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:15:28 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:15:28 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:15:28 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:15:51 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:15:51 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:15:51 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:15:51 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:15:51 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 3
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000194996221
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: withdraw
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 99999999
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Insufficient balance
+2026-05-20 17:15:51 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: 
+2026-05-20 17:15:51 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:15:51 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000194996221
+2026-05-20 17:15:51 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 
+2026-05-20 17:15:51 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: withdraw
+2026-05-20 17:15:51 [main] INFO  pages.AdvancedTransactionsPage - Amount: 99999999
+2026-05-20 17:15:51 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:15:51 [main] INFO  pages.TransactionsPage - Source Account: 1025000194996221
+2026-05-20 17:15:51 [main] INFO  pages.TransactionsPage - Recipient Account: 
+2026-05-20 17:15:51 [main] INFO  pages.TransactionsPage - Transfer Type: withdraw
+2026-05-20 17:15:51 [main] INFO  pages.TransactionsPage - Amount: 99999999
+2026-05-20 17:15:52 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:15:52 [main] INFO  pages.TransactionsPage - Clicking Withdraw tab.
+2026-05-20 17:15:52 [main] INFO  pages.TransactionsPage - Entering amount: 99999999
+2026-05-20 17:15:52 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:15:52 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:15:53 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:15:53 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 3
+2026-05-20 17:15:53 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:15:53 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:15:53 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:15:53 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:15:53 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Maximum single transaction limit is ₹1,00,00,000
+2026-05-20 17:15:53 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:15:57 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:15:57 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:15:57 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:16:00 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:16:00 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:16:01 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:16:01 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:16:02 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:16:02 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:16:02 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:16:02 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:16:02 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:16:02 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:16:02 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:16:02 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:16:26 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:16:26 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:16:26 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:16:26 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:16:26 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 4
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: internal
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Please fill all required fields
+2026-05-20 17:16:26 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: 
+2026-05-20 17:16:26 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:16:26 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 
+2026-05-20 17:16:26 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 
+2026-05-20 17:16:26 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: internal
+2026-05-20 17:16:26 [main] INFO  pages.AdvancedTransactionsPage - Amount: 
+2026-05-20 17:16:26 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:16:26 [main] INFO  pages.TransactionsPage - Source Account: 
+2026-05-20 17:16:26 [main] INFO  pages.TransactionsPage - Recipient Account: 
+2026-05-20 17:16:26 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 17:16:26 [main] INFO  pages.TransactionsPage - Amount: 
+2026-05-20 17:16:26 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 17:16:27 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 17:16:27 [main] INFO  pages.TransactionsPage - Entering amount: 
+2026-05-20 17:16:27 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:16:27 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:16:27 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:16:27 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 4
+2026-05-20 17:16:27 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:16:27 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:16:27 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:16:27 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:16:27 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 17:16:27 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:16:32 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:16:32 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:16:32 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:16:35 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:16:35 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:16:36 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:16:36 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:16:37 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:16:37 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:16:37 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:16:37 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:16:37 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:16:38 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:16:38 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:16:38 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:17:01 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:17:01 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:17:01 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:17:01 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:17:01 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 5
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 1025000125008298
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: internal
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 100000001
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Maximum single transaction limit is ₹1,00,00,000
+2026-05-20 17:17:01 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: 
+2026-05-20 17:17:01 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:17:01 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:17:01 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 17:17:01 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: internal
+2026-05-20 17:17:01 [main] INFO  pages.AdvancedTransactionsPage - Amount: 100000001
+2026-05-20 17:17:01 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:17:01 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:17:01 [main] INFO  pages.TransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 17:17:01 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 17:17:01 [main] INFO  pages.TransactionsPage - Amount: 100000001
+2026-05-20 17:17:02 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:17:02 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 17:17:02 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 17:17:02 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000125008298
+2026-05-20 17:17:03 [main] INFO  pages.TransactionsPage - Entering amount: 100000001
+2026-05-20 17:17:03 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:17:03 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:17:03 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:17:03 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 5
+2026-05-20 17:17:03 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:17:03 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:17:03 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:17:03 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:17:03 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Maximum single transaction limit is ₹1,00,00,000
+2026-05-20 17:17:03 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:17:08 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:17:08 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:17:08 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:17:11 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:17:11 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:17:12 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:17:12 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:17:13 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:17:13 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:17:13 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:17:13 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:17:13 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:17:14 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:17:14 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:17:14 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:17:37 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:17:37 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:17:37 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:17:37 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:17:37 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 6
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 1025000125008298
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: internal
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 1000
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Transaction successful
+2026-05-20 17:17:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: 
+2026-05-20 17:17:37 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:17:37 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:17:37 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 17:17:37 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: internal
+2026-05-20 17:17:37 [main] INFO  pages.AdvancedTransactionsPage - Amount: 1000
+2026-05-20 17:17:37 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:17:37 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:17:37 [main] INFO  pages.TransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 17:17:37 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 17:17:37 [main] INFO  pages.TransactionsPage - Amount: 1000
+2026-05-20 17:17:38 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:17:38 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 17:17:38 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 17:17:38 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000125008298
+2026-05-20 17:17:38 [main] INFO  pages.TransactionsPage - Entering amount: 1000
+2026-05-20 17:17:39 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:17:39 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:17:39 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:17:39 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 6
+2026-05-20 17:17:39 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:17:39 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:17:39 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:17:39 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating success toast message.
+2026-05-20 17:17:39 [main] INFO  pages.TransactionUIValidationPage - Checking for success toast.
+2026-05-20 17:17:39 [main] INFO  pages.TransactionUIValidationPage - Success Toast Message: Welcome back, Harish S!
+2026-05-20 17:17:45 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:17:45 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:17:45 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:17:48 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:17:48 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:17:49 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:17:49 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:17:50 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:17:50 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:17:50 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:17:50 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:17:51 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:17:51 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:17:51 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:17:51 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:18:14 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:18:14 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:18:14 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:18:14 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:18:14 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 7
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 9999999999999999
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: internal
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 1000
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Receiver account does not exist.
+2026-05-20 17:18:14 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: 
+2026-05-20 17:18:14 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:18:14 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:18:14 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 9999999999999999
+2026-05-20 17:18:14 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: internal
+2026-05-20 17:18:14 [main] INFO  pages.AdvancedTransactionsPage - Amount: 1000
+2026-05-20 17:18:14 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:18:14 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:18:14 [main] INFO  pages.TransactionsPage - Recipient Account: 9999999999999999
+2026-05-20 17:18:14 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 17:18:14 [main] INFO  pages.TransactionsPage - Amount: 1000
+2026-05-20 17:18:15 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:18:15 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 17:18:15 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 17:18:15 [main] INFO  pages.TransactionsPage - Entering recipient account number: 9999999999999999
+2026-05-20 17:18:15 [main] INFO  pages.TransactionsPage - Entering amount: 1000
+2026-05-20 17:18:16 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:18:16 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:18:16 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:18:16 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 7
+2026-05-20 17:18:16 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:18:16 [main] INFO  pages.NegativeTransactionsPage - NegativeTransactionsPage initialized.
+2026-05-20 17:18:16 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Validating error message display.
+2026-05-20 17:18:16 [main] INFO  pages.NegativeTransactionsPage - Waiting for error toast message.
+2026-05-20 17:18:16 [main] INFO  pages.NegativeTransactionsPage - Error Toast Message: Welcome back, Harish S!
+2026-05-20 17:18:16 [main] INFO  stepdefinitions.NegativeTransactionsSteps - Error message displayed successfully.
+2026-05-20 17:18:21 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:18:21 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:18:21 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:18:24 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:18:24 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:18:25 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:18:25 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:18:26 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:18:26 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:18:26 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:18:26 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:18:26 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:18:27 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:18:27 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:18:27 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:18:50 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:18:50 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:18:50 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:18:50 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:18:50 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 8
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 1025000125008298
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: internal
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 1000
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Transaction successful
+2026-05-20 17:18:50 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: -1000
+2026-05-20 17:18:50 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:18:50 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:18:50 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 17:18:50 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: internal
+2026-05-20 17:18:50 [main] INFO  pages.AdvancedTransactionsPage - Amount: 1000
+2026-05-20 17:18:50 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:18:50 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:18:50 [main] INFO  pages.TransactionsPage - Recipient Account: 1025000125008298
+2026-05-20 17:18:50 [main] INFO  pages.TransactionsPage - Transfer Type: internal
+2026-05-20 17:18:50 [main] INFO  pages.TransactionsPage - Amount: 1000
+2026-05-20 17:18:51 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:18:51 [main] INFO  pages.TransactionsPage - Clicking Transfer tab.
+2026-05-20 17:18:51 [main] INFO  pages.TransactionsPage - Selected transfer type: internal
+2026-05-20 17:18:51 [main] INFO  pages.TransactionsPage - Entering recipient account number: 1025000125008298
+2026-05-20 17:18:51 [main] INFO  pages.TransactionsPage - Entering amount: 1000
+2026-05-20 17:18:52 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:18:52 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:18:52 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:18:52 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 8
+2026-05-20 17:18:52 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:18:52 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:18:52 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:18:52 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating success toast message.
+2026-05-20 17:18:52 [main] INFO  pages.TransactionUIValidationPage - Checking for success toast.
+2026-05-20 17:18:52 [main] INFO  pages.TransactionUIValidationPage - Success Toast Message: Welcome back, Harish S!
+2026-05-20 17:18:57 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:18:57 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:18:57 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:19:00 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:19:00 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:19:01 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:19:01 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:19:02 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:19:02 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:19:02 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:19:02 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:19:02 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:19:02 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:19:02 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:19:02 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:19:25 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:19:25 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:19:25 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:19:25 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:19:25 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 9
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: deposit
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 5000
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Deposit successful
+2026-05-20 17:19:25 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: +5000
+2026-05-20 17:19:25 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:19:25 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:19:25 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 
+2026-05-20 17:19:25 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: deposit
+2026-05-20 17:19:25 [main] INFO  pages.AdvancedTransactionsPage - Amount: 5000
+2026-05-20 17:19:25 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:19:25 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:19:25 [main] INFO  pages.TransactionsPage - Recipient Account: 
+2026-05-20 17:19:25 [main] INFO  pages.TransactionsPage - Transfer Type: deposit
+2026-05-20 17:19:25 [main] INFO  pages.TransactionsPage - Amount: 5000
+2026-05-20 17:19:26 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:19:26 [main] INFO  pages.TransactionsPage - Clicking Deposit tab.
+2026-05-20 17:19:26 [main] INFO  pages.TransactionsPage - Entering amount: 5000
+2026-05-20 17:19:27 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:19:27 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:19:27 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:19:27 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 9
+2026-05-20 17:19:27 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:19:27 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:19:27 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:19:27 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating success toast message.
+2026-05-20 17:19:27 [main] INFO  pages.TransactionUIValidationPage - Checking for success toast.
+2026-05-20 17:19:27 [main] INFO  pages.TransactionUIValidationPage - Success Toast Message: Welcome back, Harish S!
+2026-05-20 17:19:32 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:19:32 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:19:32 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:19:34 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:19:34 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:19:35 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:19:36 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:19:36 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:19:36 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:19:36 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:19:36 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:19:36 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:19:37 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:19:37 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:19:37 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:20:00 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:20:00 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:20:00 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:20:00 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:20:00 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 10
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: withdraw
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 1000
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Withdrawal successful
+2026-05-20 17:20:00 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: -1000
+2026-05-20 17:20:00 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:20:00 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:20:00 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 
+2026-05-20 17:20:00 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: withdraw
+2026-05-20 17:20:00 [main] INFO  pages.AdvancedTransactionsPage - Amount: 1000
+2026-05-20 17:20:00 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:20:00 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:20:00 [main] INFO  pages.TransactionsPage - Recipient Account: 
+2026-05-20 17:20:00 [main] INFO  pages.TransactionsPage - Transfer Type: withdraw
+2026-05-20 17:20:00 [main] INFO  pages.TransactionsPage - Amount: 1000
+2026-05-20 17:20:01 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:20:01 [main] INFO  pages.TransactionsPage - Clicking Withdraw tab.
+2026-05-20 17:20:01 [main] INFO  pages.TransactionsPage - Entering amount: 1000
+2026-05-20 17:20:01 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:20:02 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:20:02 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:20:02 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 10
+2026-05-20 17:20:02 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:20:02 [main] INFO  pages.TransactionUIValidationPage - TransactionUIValidationPage initialized.
+2026-05-20 17:20:02 [main] INFO  stepdefinitions.TransactionUIValidationSteps - TransactionUIValidationSteps initialized.
+2026-05-20 17:20:02 [main] INFO  stepdefinitions.TransactionUIValidationSteps - Validating success toast message.
+2026-05-20 17:20:02 [main] INFO  pages.TransactionUIValidationPage - Checking for success toast.
+2026-05-20 17:20:02 [main] INFO  pages.TransactionUIValidationPage - Success Toast Message: Welcome back, Harish S!
+2026-05-20 17:20:07 [main] INFO  stepdefinitions.LoginSteps - Performing reusable login step.
+2026-05-20 17:20:07 [main] INFO  pages.LoginPage - LoginPage initialized.
+2026-05-20 17:20:07 [main] INFO  pages.LoginPage - Opening application: http://localhost:3000/
+2026-05-20 17:20:10 [main] INFO  pages.LoginPage - Browser window maximized.
+2026-05-20 17:20:10 [main] INFO  pages.LoginPage - Landing page fully loaded.
+2026-05-20 17:20:12 [main] INFO  pages.LoginPage - Login button is clickable.
+2026-05-20 17:20:12 [main] INFO  pages.LoginPage - Clicked login button to open modal.
+2026-05-20 17:20:12 [main] INFO  pages.LoginPage - Login modal displayed successfully.
+2026-05-20 17:20:12 [main] INFO  stepdefinitions.LoginSteps - Using login email: kvphs1981@gmail.com
+2026-05-20 17:20:12 [main] INFO  pages.LoginPage - Starting login process.
+2026-05-20 17:20:12 [main] INFO  pages.LoginPage - Entering email: kvphs1981@gmail.com
+2026-05-20 17:20:13 [main] INFO  pages.LoginPage - Entering password.
+2026-05-20 17:20:13 [main] INFO  pages.LoginPage - Clicking Secure Login button.
+2026-05-20 17:20:13 [main] INFO  pages.LoginPage - Login form submitted.
+2026-05-20 17:20:13 [main] INFO  pages.LoginPage - Verifying dashboard page.
+2026-05-20 17:20:37 [main] INFO  pages.LoginPage - Dashboard displayed successfully.
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.LoginSteps - Reusable login completed successfully.
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.TransactionsSteps - Navigating to Transactions page.
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - Navigating to Transactions page.
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.TransactionsSteps - Transactions page navigation completed.
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - TransactionsPage initialized.
+2026-05-20 17:20:37 [main] INFO  pages.AdvancedTransactionsPage - AdvancedTransactionsPage initialized.
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - AdvancedTransactionsSteps initialized.
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Reading advanced transaction test data from Excel row: 11
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Source Account: 1025000122964314
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Recipient Account: 
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transfer Type: withdraw
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Amount: 999999999
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Transaction PIN: 123456
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Message: Insufficient balance
+2026-05-20 17:20:37 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Expected Balance Change: 
+2026-05-20 17:20:37 [main] INFO  pages.AdvancedTransactionsPage - Starting advanced transaction.
+2026-05-20 17:20:37 [main] INFO  pages.AdvancedTransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:20:37 [main] INFO  pages.AdvancedTransactionsPage - Recipient Account: 
+2026-05-20 17:20:37 [main] INFO  pages.AdvancedTransactionsPage - Transfer Type: withdraw
+2026-05-20 17:20:37 [main] INFO  pages.AdvancedTransactionsPage - Amount: 999999999
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - Starting transaction execution.
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - Source Account: 1025000122964314
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - Recipient Account: 
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - Transfer Type: withdraw
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - Amount: 999999999
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - Selected source account.
+2026-05-20 17:20:37 [main] INFO  pages.TransactionsPage - Clicking Withdraw tab.
+2026-05-20 17:20:38 [main] INFO  pages.TransactionsPage - Entering amount: 999999999
+2026-05-20 17:20:38 [main] INFO  pages.TransactionsPage - Entering transaction PIN.
+2026-05-20 17:20:38 [main] INFO  pages.TransactionsPage - Submitting transaction.
+2026-05-20 17:20:38 [main] INFO  pages.AdvancedTransactionsPage - Advanced transaction completed.
+2026-05-20 17:20:38 [main] INFO  stepdefinitions.AdvancedTransactionsSteps - Advanced transaction execution completed for row: 11

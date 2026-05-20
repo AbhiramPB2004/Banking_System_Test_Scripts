@@ -1,0 +1,82 @@
+!SESSION 2026-05-14 14:43:09.664 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-05-14 14:43:13.201
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-05-14 14:43:23.820
+!MESSAGE Logback config file: C:\Users\harish.s8\Desktop\Banking_System_Test_Scripts\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-05-14 14:43:33.176
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\harish.s8'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2026-05-14 14:46:33.208 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2026-05-14 14:46:38.872
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-05-14 14:46:48.403
+!MESSAGE Logback config file: C:\Users\harish.s8\Desktop\Banking_System_Test_Scripts\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.101.20251017-1242.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-05-14 14:46:58.653
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\harish.s8'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-05-14 14:47:19.580
+!MESSAGE Failed to close spy org.eclipse.m2e.internal.maven.listener.M2EMavenBuildDataBridge: Cannot invoke "java.nio.channels.SocketChannel.close()" because "this.writeChannel" is null
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2026-05-14 14:47:19.683
+!MESSAGE Execution error; org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal org.apache.maven.plugins:maven-install-plugin:3.1.2:install-file (default-cli) on project standalone-pom: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:3.1.2:install-file failed: type id cannot be empty
+!STACK 0
+org.apache.maven.lifecycle.LifecycleExecutionException: Failed to execute goal [32morg.apache.maven.plugins:maven-install-plugin:3.1.2:install-file[m [1m(default-cli)[m on project [36mstandalone-pom[m: [1;31mExecution default-cli of goal org.apache.maven.plugins:maven-install-plugin:3.1.2:install-file failed: type id cannot be empty[m
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:333)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:316)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:212)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:174)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.access$000(MojoExecutor.java:75)
+	at org.apache.maven.lifecycle.internal.MojoExecutor$1.run(MojoExecutor.java:162)
+	at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute(DefaultMojosExecutionStrategy.java:39)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:159)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:105)
+	at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:73)
+	at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:53)
+	at org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:118)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:261)
+	at org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:173)
+	at org.apache.maven.DefaultMaven.execute(DefaultMaven.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.lambda$3(MavenExecutionContext.java:374)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:462)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:342)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:281)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:366)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenInstallFileWizard.lambda$0(MavenInstallFileWizard.java:105)
+	at org.eclipse.core.runtime.jobs.Job$1.run(Job.java:166)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.apache.maven.plugin.PluginExecutionException: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:3.1.2:install-file failed: type id cannot be empty
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:133)
+	at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:328)
+	... 22 more
+Caused by: java.lang.IllegalArgumentException: type id cannot be empty
+	at org.eclipse.aether.artifact.DefaultArtifactType.<init>(DefaultArtifactType.java:89)
+	at org.apache.maven.RepositoryUtils.newArtifactType(RepositoryUtils.java:262)
+	at org.apache.maven.RepositoryUtils$MavenArtifactTypeRegistry.get(RepositoryUtils.java:320)
+	at org.apache.maven.plugins.install.InstallFileMojo.execute(InstallFileMojo.java:222)
+	at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:126)
+	... 23 more

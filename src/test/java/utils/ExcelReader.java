@@ -1,25 +1,31 @@
 package utils;
 
+import java.io.FileInputStream;
+
 import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.DataFormatter;
+import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-
 public class ExcelReader {
-    private Workbook workbook;
-    private Sheet sheet;
 
-    public ExcelReader(String filepath , String sheetName) throws FileNotFoundException {
-        FileInputStream fs = new FileInputStream(filepath);
-        this.workbook = new XSSFWorkbook();
-        sheet = workbook.getSheet(sheetName);
-    }
+    public static String getCellData(String filePath,
+                                     String sheetName,
+                                     int rowNumber,
+                                     int columnNumber) {
+        try (FileInputStream fis = new FileInputStream(filePath);
+             Workbook workbook = new XSSFWorkbook(fis)) {
 
-    public String GetCellData(int row , int column){
-        Cell cell = sheet.getRow(row).getCell(column);
-        return cell.toString();
+            Sheet sheet = workbook.getSheet(sheetName);
+            Row row = sheet.getRow(rowNumber);
+            Cell cell = row.getCell(columnNumber);
+            DataFormatter formatter = new DataFormatter();
+            return formatter.formatCellValue(cell);
+
+        } catch (Exception e) {
+            throw new RuntimeException("Unable to read Excel data", e);
+        }
     }
 }
