@@ -3,7 +3,7 @@ package stepdefinitions.ui.ProfilePage;
 import io.cucumber.java.en.And;
 import org.openqa.selenium.WebDriver;
 import pages.ProfilePage;
-import Hooks.Hooks;
+import constants.Hooks;
 import utils.LoggerUtility;
 
 public class AddressStep {

@@ -1,18 +1,12 @@
 package runners;
 
+import org.testng.annotations.DataProvider;
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
 
 @CucumberOptions(
-
-        features =
-                "src/test/java/resources/features/ProfilePage",
-
-        glue = {
-                "stepdefinitions",
-                "Hooks"
-        },
-
+        features = "src/test/java/resources/features",
+        glue = {"stepdefinitions","Hooks"},
         plugin = {
                 "pretty",
                 "html:target/cucumber-reports/cucumber.html",
@@ -21,15 +15,15 @@ import io.cucumber.testng.CucumberOptions;
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
                 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
         },
-
-        monochrome = true,
-
-        publish = true
-
-//        tags = "@NameValidation"
+        tags = "@TC",
+        monochrome = true
 )
 
-public class TestRunner
-        extends AbstractTestNGCucumberTests {
+public class AccountTestRunner extends AbstractTestNGCucumberTests {
 
+    @Override
+    @DataProvider(parallel = false)
+    public Object[][] scenarios() {
+        return super.scenarios();
+    }
 }

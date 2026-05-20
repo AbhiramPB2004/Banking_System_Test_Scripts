@@ -28,6 +28,8 @@ public class LoginPage {
 
     By forgetPassword = By .xpath("//div[@class='login-secondary-actions']//button[@type='button']");
 
+    By loginOverlay =
+            By.xpath("//div[contains(@class,'login-modal-overlay')]");
 
     // Login actions
     public void clickFirstLogin() {
@@ -67,4 +69,17 @@ public class LoginPage {
     public void clickForgetPassword() {
         driver.findElement(forgetPassword).click();
     }
+    public void login(String email, String password) {
+
+        clickFirstLogin();
+
+        enterEmail(email);
+
+        enterPassword(password);
+
+        clickLogin();
+    }
+
+
+
 }

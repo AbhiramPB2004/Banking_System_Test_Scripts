@@ -1,7 +1,7 @@
 package stepdefinitions.ui.ProfilePage;
 
 
-import Hooks.Hooks;
+import constants.Hooks;
 import io.cucumber.java.en.*;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebDriver;

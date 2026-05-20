@@ -1,6 +1,6 @@
 package stepdefinitions.ui.ProfilePage;
 
-import Hooks.Hooks;
+import constants.Hooks;
 
 import io.cucumber.java.en.Then;
 

@@ -1,11 +1,10 @@
 package stepdefinitions.ui.ProfilePage;
 
-import Hooks.Hooks;
+import constants.Hooks;
 import io.cucumber.java.en.Then;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import pages.ProfilePage;
-import utils.DriverFactory;
 
 public class KYC_editability {
     WebDriver driver;

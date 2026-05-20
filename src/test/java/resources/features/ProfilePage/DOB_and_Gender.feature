@@ -1,4 +1,4 @@
-Feature: Registration Page Field Enable Validation
+Feature: Profile Page Field Enable Validation
 
   Background:
     Given User launches the banking application

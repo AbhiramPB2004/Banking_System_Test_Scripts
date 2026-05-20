@@ -1,6 +1,5 @@
 package stepdefinitions.ui.ProfilePage;
-import Hooks.Hooks;
-import io.cucumber.java.Scenario;
+import constants.Hooks;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.WebDriver;

@@ -2,7 +2,7 @@ package stepdefinitions.ui.ProfilePage;
 
 
 
-import Hooks.Hooks;
+import constants.Hooks;
 import io.cucumber.java.en.And;
 import org.openqa.selenium.WebDriver;
 import pages.ProfilePage;
