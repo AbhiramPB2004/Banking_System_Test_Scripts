@@ -101,6 +101,10 @@ public class emi_payment {
 
         monthlyEmi = Double.parseDouble(emiValue);
 
+        if (Double.isNaN(monthlyEmi) || Double.isInfinite(monthlyEmi) || monthlyEmi <= 0) {
+            throw new RuntimeException("Invalid monthly EMI received from backend: " + monthlyEmi);
+        }
+
         System.out.println("Fetched Monthly EMI: " + monthlyEmi);
     }
 
@@ -138,6 +142,10 @@ public class emi_payment {
                 System.out.println("Prepayment Penalty 2%: " + prepaymentPenalty);
                 System.out.println("Final Advance EMI Amount: " + finalPaymentAmount);
             }
+        }
+
+        if (Double.isNaN(finalPaymentAmount) || Double.isInfinite(finalPaymentAmount)) {
+            throw new RuntimeException("Invalid payment amount generated: " + finalPaymentAmount);
         }
 
         JSONObject paymentBody = new JSONObject();
@@ -192,7 +200,13 @@ public class emi_payment {
 
             Assert.assertNotNull(principal, "Principal component not found for installment: " + (i + 1));
 
-            advancePrincipal = advancePrincipal + Double.parseDouble(principal);
+            double principalValue = Double.parseDouble(principal);
+
+            if (Double.isNaN(principalValue) || Double.isInfinite(principalValue)) {
+                throw new RuntimeException("Invalid principal component received: " + principalValue);
+            }
+
+            advancePrincipal = advancePrincipal + principalValue;
         }
 
         return Math.round(advancePrincipal * 100.0) / 100.0;

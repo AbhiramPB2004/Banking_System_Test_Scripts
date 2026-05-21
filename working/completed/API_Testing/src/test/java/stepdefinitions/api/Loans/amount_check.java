@@ -20,7 +20,7 @@ public class amount_check {
     ExcelReader excel;
     Response response;
 
-    String excelPath = "src/test/java/resources/data/complete_Loan_test_cases.xlsx";
+    String excelPath = "src/test/java/resources/Data/complete_Loan_test_cases.xlsx";
     String sheetName = "Automation";
 
     String currentTcId;
@@ -108,47 +108,6 @@ public class amount_check {
             System.out.println("Loan ID for " + tcId + ": " + loanId);
             LoanTestContext.addLoanId(loanId);
         }
-
-        if (tcId.equalsIgnoreCase("TC_005")) {
-            cleanupAfterMaximumLoanLimitTest();
-        }
-    }
-
-    private void cleanupAfterMaximumLoanLimitTest() {
-
-        System.out.println("Starting cleanup after maximum loan limit test...");
-
-        for (String loanId : LoanTestContext.getLoanIds()) {
-
-            try {
-                String accountId = excel.getCellDataByTestCaseIDSafe("TC_002", "Account_ID");
-
-                JSONObject body = new JSONObject();
-                body.put("source_account_id", accountId);
-
-                Response cleanupResponse = ApiSessionManager.executeWithRefresh(() ->
-                        given()
-                                .cookies(getSafeCookies())
-                                .header("Content-Type", "application/json")
-                                .body(body.toString())
-                                .when()
-                                .post("/loans/foreclose/" + loanId)
-                                .then()
-                                .extract()
-                                .response()
-                );
-
-                System.out.println("Cleanup after TC_005 for Loan ID: " + loanId);
-                System.out.println(cleanupResponse.asPrettyString());
-
-            } catch (Exception e) {
-                System.out.println("Cleanup failed for Loan ID: " + loanId);
-                System.out.println("Reason: " + e.getMessage());
-            }
-        }
-
-        LoanTestContext.clear();
-        System.out.println("Maximum loan limit test cleanup completed.");
     }
 
     private Map<String, String> getSafeCookies() {

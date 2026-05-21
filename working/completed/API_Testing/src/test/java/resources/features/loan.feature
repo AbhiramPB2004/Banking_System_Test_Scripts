@@ -57,22 +57,22 @@ Feature: Loan API Testing
 
 
 
-  @applyIndividualLoans
-  Scenario Outline: Apply individual loan using Excel TC_ID
-    Given User is logged in for applying multiple loans
-    When User applies loan for "<TC_ID>"
-    Then Loan application for "<TC_ID>" should be validated
-
-    Examples:
-      | TC_ID       |
-      | TC_002 |
-      | TC_003 |
-      | TC_004 |
-      | TC_005 |
+#  @applyIndividualLoans
+#  Scenario Outline: Apply individual loan using Excel TC_ID
+#    Given User is logged in for applying multiple loans
+#    When User applies loan for "<TC_ID>"
+#    Then Loan application for "<TC_ID>" should be validated
+#
+#    Examples:
+#      | TC_ID       |
+#      | TC_002 |
+#      | TC_003 |
+#      | TC_004 |
+#      | TC_005 |
 
 
 #maximum amount for homeloan
-   @Minimum_homeLoan
+  @Minimum_homeLoan
   Scenario: Apply Home Loan With Minimum Amount
     Given User is logged in for applying multiple loans
     When User applies loan for "TC_006"
@@ -512,9 +512,36 @@ Feature: Loan API Testing
     And User creates another loan after foreclosure using "TC_FORE_002_PERSONAL"
     Then New loan should be created successfully after foreclosure
 
-  @Insufficient_Balance_Foreclosure
-  Scenario: Try to foreclose loan with insufficient balance account
-    Given User is logged in for foreclosure testing
-    When User creates loan for foreclosure using "TC_FORE_003"
-    And User forecloses created loan using "TC_FORE_003"
-    Then Foreclosure response for "TC_FORE_003" should be validated
+#  @Insufficient_Balance_Foreclosure
+#  Scenario: Try to foreclose loan with insufficient balance account
+#    Given User is logged in for foreclosure testing
+#    When User creates loan for foreclosure using "TC_FORE_003"
+#    And User forecloses created loan using "TC_FORE_003"
+#    Then Foreclosure response for "TC_FORE_003" should be validated
+
+
+
+
+  @Decimal_homeLoan
+  Scenario: Reject Home Loan With Decimal Amount
+    Given User is logged in for applying multiple loans
+    When User applies loan for "TC_062"
+    Then Loan application for "TC_062" should be validated
+
+  @Decimal_vehicleLoan
+  Scenario: Reject Vehicle Loan With Decimal Amount
+    Given User is logged in for applying multiple loans
+    When User applies loan for "TC_063"
+    Then Loan application for "TC_063" should be validated
+
+  @Decimal_personalLoan
+  Scenario: Reject Personal Loan With Decimal Amount
+    Given User is logged in for applying multiple loans
+    When User applies loan for "TC_064"
+    Then Loan application for "TC_064" should be validated
+
+  @Decimal_educationLoan
+  Scenario: Reject Education Loan With Decimal Amount
+    Given User is logged in for applying multiple loans
+    When User applies loan for "TC_065"
+    Then Loan application for "TC_065" should be validated

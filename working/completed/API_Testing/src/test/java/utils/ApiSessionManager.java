@@ -80,5 +80,6 @@ public class ApiSessionManager {
 
     public static void resetSession() {
         cookies = null;
+        loginPrinted = false;
     }
 }
